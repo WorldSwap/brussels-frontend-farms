@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.d80f006a.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.a613e63c.js",
+    "main.js": "/static/js/main.a1833e7b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.20ddbf2a.js",
     "static/css/2.0cbb7271.chunk.css": "/static/css/2.0cbb7271.chunk.css",
-    "static/js/2.3c8f9f00.chunk.js": "/static/js/2.3c8f9f00.chunk.js",
-    "static/js/3.870a2c44.chunk.js": "/static/js/3.870a2c44.chunk.js",
-    "static/js/4.4d4ea564.chunk.js": "/static/js/4.4d4ea564.chunk.js",
+    "static/js/2.e26e7f40.chunk.js": "/static/js/2.e26e7f40.chunk.js",
+    "static/js/3.022eb06a.chunk.js": "/static/js/3.022eb06a.chunk.js",
+    "static/js/4.da6d7523.chunk.js": "/static/js/4.da6d7523.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.3c8f9f00.chunk.js.LICENSE.txt": "/static/js/2.3c8f9f00.chunk.js.LICENSE.txt",
-    "static/js/3.870a2c44.chunk.js.LICENSE.txt": "/static/js/3.870a2c44.chunk.js.LICENSE.txt",
+    "static/js/2.e26e7f40.chunk.js.LICENSE.txt": "/static/js/2.e26e7f40.chunk.js.LICENSE.txt",
+    "static/js/3.022eb06a.chunk.js.LICENSE.txt": "/static/js/3.022eb06a.chunk.js.LICENSE.txt",
     "static/media/all-bunnies-clipped.png": "/static/media/all-bunnies-clipped.6aa99e2e.png",
     "static/media/all-bunnies.png": "/static/media/all-bunnies.82a075e3.png",
     "static/media/cakers-share.png": "/static/media/cakers-share.861e6e70.png",
@@ -21,9 +21,9 @@
     "static/media/syrup-nft.png": "/static/media/syrup-nft.2201815e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a613e63c.js",
+    "static/js/runtime-main.20ddbf2a.js",
     "static/css/2.0cbb7271.chunk.css",
-    "static/js/2.3c8f9f00.chunk.js",
-    "static/js/main.d80f006a.chunk.js"
+    "static/js/2.e26e7f40.chunk.js",
+    "static/js/main.a1833e7b.chunk.js"
   ]
 }
